@@ -1,0 +1,10 @@
+#Syntax Color
+
+#Datatype
+TB67H450 KEYWORD1
+#function
+normal KEYWORD2
+start KEYWORD2
+reverse KEYWORD2
+stop KEYWORD2
+brake KEYWORD2
