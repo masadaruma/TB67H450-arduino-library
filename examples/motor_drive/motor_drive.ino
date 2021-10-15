@@ -9,7 +9,7 @@ void setup(){
 void loop()
 {   
     Serial.println("normal");
-    motor.nomal(150);
+    motor.normal(150);
     delay(2000);
     Serial.println("reverse");
     motor.reverse(150);
