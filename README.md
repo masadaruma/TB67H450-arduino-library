@@ -36,3 +36,7 @@ To take brake ,use brake();
 モーターにブレーキをかけるにはbrake();を使用します。
 `motor.brake()`
 モーターにブレーキをかけます。
+
+# contact details(連絡先)
+Twitter :  [https://twitter.com/masadaruma](https://twitter.com/masadaruma)  
+email   :  [masadaruma1225@gmail.com](masadaruma1225@gmail.com)
